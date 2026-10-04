@@ -2,6 +2,8 @@
 
 A simple web app for a digital agency to track client projects, monitor their progress and manage priorities. Built with ASP.NET Core (MVC + REST API), Entity Framework Core and SQLite.
 
+This simple web app is dedicated to #kodadevteam, #KodaRecruitmentTeam and #kodakollectiv.
+
 ## Features
 
 - Project list with client avatars, status pills, priority and due dates (overdue projects are flagged)
