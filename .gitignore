@@ -1,0 +1,17 @@
+# Build output
+bin/
+obj/
+
+# Local database (contains your data)
+*.db
+*.db-shm
+*.db-wal
+
+# IDE and OS files
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+.DS_Store
+Thumbs.db
